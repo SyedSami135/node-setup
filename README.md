@@ -1,4 +1,4 @@
-# Lala Group Travels API
+
 
 ## Prerequisites
 - Node.js (v18 or newer recommended)
